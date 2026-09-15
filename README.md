@@ -1,1 +1,1 @@
-# practice-programming
+# web technology repo
