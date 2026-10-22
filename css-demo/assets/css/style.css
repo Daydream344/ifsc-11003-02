@@ -251,7 +251,7 @@ font-size:1rem;
 
 
 aside[aria-label="Sidebar"]{
-background-color: aquamarine;
+background-color:#ff947f;
 color: aliceblue;
 padding: 20px 0;
 }
@@ -281,7 +281,7 @@ aside .widget footer{
 footer.primary{
 background-color:#ffffff;
 padding:5px;
-color:aquamarine;
+color:#ff947f;
 text-align:center;
 text-shadow:1px 1px #000000
 
